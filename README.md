@@ -15,6 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/ericlescalvt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/ericlescalvt/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"</a>
 </div>
   
 
