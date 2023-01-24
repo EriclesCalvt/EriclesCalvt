@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/ericlescalvt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.instagram.com/ericlescalvt/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"</a>
+<a href="https://www.linkedin.com/in/ericles-cavalcante-053663252/" target="_blank"><img src="https://imgs.search.brave.com/Pfk97rk6Y4eR4Eprw4Jx-mUtFPAr9OajawnQNCk88DY/rs:fit:180:180:1/g:ce/aHR0cHM6Ly9tZWRp/YS50cnVzdHJhZGl1/cy5jb20vcHJvZHVj/dC1sb2dvcy9idS9Q/MC9NMkJIRDhWNUtO/NkUtMTgweDE4MC5K/UEVH"</a>
 </div>
   
 
