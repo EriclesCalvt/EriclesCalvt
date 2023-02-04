@@ -1,20 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+Meu+nome+e+Gabriel+Marques+Araujo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ericles+Cavalcante+Duarte;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-#### Sou estudante de desenvolvimento web e faço curso de informática na EEEP Adriano Nobre.
+#### Atualmente estou cursando o 3º ano do curso técnico em informática na EEEP ADRIANO NOBRE
 <br>
 
 
 <div aling='center'>
   <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="EriclesCalvt github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarquezin&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br>
 
 ---
 
-![snake gif](https://github.com/Gabrielmarquezin/Gabrielmarquezin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EriclesCalvt/EriclesCalvt/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
 
@@ -24,7 +24,6 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 <img widht='53px' height='53px' src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"/>&nbsp; &nbsp;
-![Firestore](https://img.icons8.com/color/48/000000/cloud-firestore.png) 
 <br>
 <br>
 
