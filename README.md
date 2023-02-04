@@ -29,8 +29,6 @@
 
 ##### ESTUDANDO ATUALMENTE:
 ![REACT](https://img.icons8.com/plasticine/50/000000/react.png)&nbsp;
-<img widht='50px' height='50px' src='https://pics.freeicons.io/uploads/icons/png/2765419221551942634-512.png'/>&nbsp; &nbsp;
-<img widht='50px' height='50px' src='https://pics.freeicons.io/uploads/icons/png/17839680241551942828-512.png'/>&nbsp;
 <br>
 <br>
 
