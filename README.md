@@ -25,6 +25,7 @@
 
 ##### ESTUDANDO ATUALMENTE:
 ![REACT](https://img.icons8.com/plasticine/50/000000/react.png)&nbsp;
+![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 <br>
 <br>
 
