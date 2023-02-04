@@ -2,7 +2,7 @@
 
 
 
-#### Atualmente estou cursando o 3º ano do curso técnico em informática na EEEP ADRIANO NOBRE
+#### I am currently attending the 3rd year of the technical course in informatics at EEEP ADRIANO NOBRE
 <br>
 
 
