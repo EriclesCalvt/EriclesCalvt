@@ -7,8 +7,19 @@
 
 
 <div aling='center'>
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="EriclesCalvt github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
+
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=aEriclesCalvt&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true" />
+</picture>
+  
 </div>
 <br>
 <br>
