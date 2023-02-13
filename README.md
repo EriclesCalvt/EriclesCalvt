@@ -15,6 +15,7 @@
 ---
 
 ![snake gif](https://github.com/EriclesCalvt/EriclesCalvt/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <br>
   
