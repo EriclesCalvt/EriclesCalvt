@@ -7,17 +7,16 @@
 
 
 <div aling='center'>
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&langs_count=7&theme=dracula"/>
-<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarquezin&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarquezin&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<br>
 
-![Snake animation](https://github.com/EriclesCalvt/EriclesCalvt/blob/output/github-contribution-grid-snake.svg)
+---
 
-  
+![snake gif](https://github.com/Gabrielmarquezin/Gabrielmarquezin/blob/output/github-contribution-grid-snake.svg)
+<br>
+<br>
   
 </div>
 <br>
