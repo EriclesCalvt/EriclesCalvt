@@ -7,14 +7,14 @@
 
 
 <div aling='center'>
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielmarquezin&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Marques github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmarquezin&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
+  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ericles Calvt github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br>
 
 ---
 
-![snake gif](https://github.com/Gabrielmarquezin/Gabrielmarquezin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EriclesCalvt/EriclesCalvt/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
   
