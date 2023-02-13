@@ -14,14 +14,8 @@
 
 ![snake gif](https://github.com/EriclesCalvt/EriclesCalvt/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-<br>
-  
 </div>
 <br>
-<br>
-<br>
-
 ##### SKILLS:
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
