@@ -16,6 +16,10 @@
 
 </div>
 <br>
+<br>
+
+
+
 ##### SKILLS:
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
