@@ -32,6 +32,7 @@
 ##### ESTUDANDO ATUALMENTE:
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
+![React.JS].(https://img.icons8.com/color/48/000000/reactjs.png)$nbsp;
 <br>
 <br>
 
