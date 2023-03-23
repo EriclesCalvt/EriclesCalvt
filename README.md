@@ -25,14 +25,14 @@
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
-<img widht='53px' height='53px' src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"/>&nbsp; &nbsp;
+<img width="50px" height="50px" src="https://user-images.githubusercontent.com/123032168/227325030-e1279b4e-5370-42d3-a9bb-0ce5e2cbc59f.png" />
 <br>
 <br>
 
 ##### ESTUDANDO ATUALMENTE:
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
-<img widht='53px' height='53px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img widht='55px' height='55px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
 <br>
 <br>
