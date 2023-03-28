@@ -29,7 +29,7 @@
 <br>
 <br>
 
-##### ESTUDANDO ATUALMENTE:
+##### Learning:
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 <img widht='55px' height='55px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -37,6 +37,6 @@
 <br>
 <br>
 
-##### Estou aqui se precisar:
+##### I'am here :):
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/EriclesCalvt)
 
