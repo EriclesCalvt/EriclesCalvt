@@ -30,7 +30,6 @@
 
 ##### Learning:
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
-
 <img widht='55px' height='55px' src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VueJS-Dark.svg" />
           
 <br>
