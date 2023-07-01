@@ -29,8 +29,11 @@
 <br>
 
 ##### Learning:
-<img widht='55px' height='55px' src="https://cdn-icons-png.flaticon.com/512/603/603201.png" />
-<img widht='55px' height='55px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<div center>
+  <img widht='55px' height='55px' src="https://cdn-icons-png.flaticon.com/512/603/603201.png" />
+  <img widht='55px' height='55px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-        icon.svg.png" />
+</div>
+
           
 <br>
 <br>
