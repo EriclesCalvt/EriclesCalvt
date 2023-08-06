@@ -28,10 +28,9 @@
 
 ##### Learning:
 <div center>
-  <img widht='55px' height='55px' src="https://cdn-icons-png.flaticon.com/512/603/603201.png" />
+  <img widht='55px' height='55px' src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 </div>
 
-          
 <br>
 <br>
 
