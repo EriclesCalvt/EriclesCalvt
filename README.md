@@ -23,13 +23,10 @@
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
 ![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
-<br>
+<img widht='55px' height='55px' src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
+
 <br>
 
-##### Learning:
-<div center>
-  <img widht='55px' height='55px' src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-</div>
 
 <br>
 <br>
