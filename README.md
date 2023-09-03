@@ -1,10 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=418cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Ericles+Cavalcante+Duarte;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-#### I am currently attending the 3rd year of the technical course in informatics at EEEP ADRIANO NOBRE
-<br>
-
 
 <div aling='center'>
   <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ericles Calvt github stats" /> 
@@ -12,25 +5,27 @@
 </div>
 <br>
 
+## Fala dev's, eu sou o Ericles Duarte, entusiasta de tecnologia e programação !
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ericles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ericles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ericles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ericles-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ericles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ericles-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ericles-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
-<br>
-<br>
 
 
-
-##### SKILLS:
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)&nbsp;
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)&nbsp;
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)&nbsp;
-![NODE.JS](https://img.icons8.com/color/48/000000/nodejs.png)&nbsp; &nbsp;
-<img widht='55px' height='55px' src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-
-<br>
-
-
-<br>
-<br>
-
-##### I'am here :):
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/EriclesCalvt)
-
+  ##
+ 
+<div style="display: flex"> 
+<div>
+    <a href="https://instagram.com/ericlescalvt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ericlesprogrammer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ericles-cavalcante-053663252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+<img align="center" alt="Baki" src="https://i.kym-cdn.com/photos/images/original/002/218/689/a1a.gif">
+</div>
