@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/ericles-cavalcante-053663252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-<img align="center" alt="Baki" src="https://i.kym-cdn.com/photos/images/original/002/218/689/a1a.gif">
+<img align="center" alt="Baki" height="200" width="400" src="https://i.kym-cdn.com/photos/images/original/002/218/689/a1a.gif">
 </div>
