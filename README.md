@@ -1,31 +1,11 @@
+<h1>Hello people, i'am Ericles !</h1>
 
-<div aling='center'>
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ericles Calvt github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Ericles%20Cavalcante-8803fc?style=flat-square&logo=Linkedin&logoColor=3ccf85&link=https://www.linkedin.com/in/ericles-cavalcante-053663252/)](https://www.linkedin.com/in/ericles-cavalcante-053663252/) 
+[![Gmail Badge](https://img.shields.io/badge/-ericlesprogrammer@gmail.com-8803fc?style=flat-square&logo=Gmail&logoColor=3ccf85&link=mailto:ericlesprogrammer@gmail.com)](mailto:ericlesprogrammer@gmail.com)
 
-## Fala dev's, eu sou o Ericles Duarte, entusiasta de tecnologia e programação !
+<img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMxY2ltbnpwb3hhbTY1dm5tY3RmZ3RnbTE2OGU0NHk3amo1dm82ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1r17BYXVodfW/giphy.gif" width='200"'>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ericles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ericles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ericles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ericles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ericles-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ericles-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Ericles-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-</div>
-
-
-  ##
- 
-<div style="display: flex"> 
-<div>
-    <a href="https://instagram.com/ericlescalvt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ericlesprogrammer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ericles-cavalcante-053663252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-<img align="center" alt="Baki" height="200" width="400" src="https://i.kym-cdn.com/photos/images/original/002/218/689/a1a.gif">
-</div>
+## 🎧 My Stack
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-8803fc?style=flat-square&logo=javascript&logoColor=3ccf85)&nbsp; ![TypeScript](https://img.shields.io/badge/-Typescript-8803fc?style=flat&logo=typescript&logoColor=3ccf85)&nbsp; ![Ruby](https://img.shields.io/badge/-Ruby-8803fc?style=flat&logo=ruby&logoColor=3ccf85)&nbsp; 
+- Front-end development: ![Next JS](https://img.shields.io/badge/Next-8803fc?style=for-the-badge&style=flat&logo=next.js&logoColor=3ccf85)&nbsp; ![React.js](https://img.shields.io/badge/-React.js-8803fc?style=flat&logo=react&logoColor=3ccf85)&nbsp;
+- Back-end development: ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-8803fc?style=flat&logo=rubyonrails&logoColor=3ccf85)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-8803fc?style=flat&logo=node.js&logoColor=3ccf85)&nbsp;
