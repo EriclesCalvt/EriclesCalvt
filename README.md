@@ -1,8 +1,35 @@
-<h1>Hello, i'am Ericles !</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ericles%20Cavalcante-000000?style=flat-square&logo=Linkedin&logoColor=7ce817&link=https://www.linkedin.com/in/ericles-cavalcante-053663252/)](https://www.linkedin.com/in/ericles-cavalcante-053663252/) 
-[![Gmail Badge](https://img.shields.io/badge/-ericlesprogrammer@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=7ce817&link=mailto:ericlesprogrammer@gmail.com)](mailto:ericlesprogrammer@gmail.com)
+<p> My name is Ericles and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Itapagé-Ceará, Brasil</b>. </p>
 
-## 👑 My Stacks:
-- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=7ce817)&nbsp; ![TypeScript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=7ce817)&nbsp;
-- Front-end development: ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&style=flat&logo=next.js&logoColor=7ce817)&nbsp; ![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=7ce817)&nbsp;
+## About me:
+
+- ✨ Creating bugs since 2021
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />   and React Native
+- 🎯 Goals: live from programming and speak fluent english 🚀
+- 🎲 And ... i like resolve problems in my every day with programmer
+
+## I code with:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash,git" height="60" alt="javascript logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="center">You can find me here:</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ericlescalvt/" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin     logo"/>
+ </a>
+   <a href="mailto:ericlesprogrammer@gmail.com" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail     logo"/>
+ </a>
+</div>
