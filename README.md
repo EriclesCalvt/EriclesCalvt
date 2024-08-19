@@ -5,7 +5,7 @@
 ## About me:
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />   and React Native
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
 - 🎯 Goals: live from programming and speak fluent english 🚀
 - 🎲 And ... i like resolve problems in my every day with programmer
 
