@@ -1,35 +1,10 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+# Hi... I'm Ericles  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<p> My name is Ericles and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Fortaleza-CE, Brasil</b>. </p>
+A **Full Stack Developer** and a **tech-curious** who is **fascinated** by the fascinating power of **building functional and responsive applications**
+## Open to project collaborations
+- You can reach me through:
+- <a href="mailto:ericlesprogrammer@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><a href="https://www.linkedin.com/in/ericlescalvt/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
-## About me:
-
-- ✨ Creating bugs since 2021
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
-- 🎯 Goals: live from programming and speak fluent english 🚀
-- 🎲 And ... i like resolve problems in my every day with programmer
-
-## I code with:
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bash,git" height="60" alt="javascript logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">You can find me here:</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ericlescalvt/" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin     logo"/>
- </a>
-   <a href="mailto:ericlesprogrammer@gmail.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail     logo"/>
- </a>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,vite,nodejs,expressjs,git,github,bash,postman,&perline=15)](#)
