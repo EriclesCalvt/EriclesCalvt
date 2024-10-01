@@ -11,4 +11,4 @@ A **Full Stack Developer** and a **tech-curious** who is **fascinated** by the f
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,vite,nodejs,expressjs,git,bash,&perline=15)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,vite,git,bash,&perline=15)](#)
