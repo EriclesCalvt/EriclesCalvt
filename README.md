@@ -1,45 +1,51 @@
 <div align="center">
 
-# &nbsp;Ericles Duarte&nbsp;
+<a href="https://evolttech.com.br">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=900&color=5865F2&center=true&vCenter=true&width=750&height=80&lines=Ericles+Duarte;Founder+%40+Evolt+Tech;Full+Stack+Software+Engineer" alt="Ericles Duarte" />
+</a>
 
-### Founder & Software Engineer
+<p>
+  <em>I don't just write code — I build products that solve real problems.</em>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Building+products+that+solve+real+problems;Founder+at+Evolt+Tech;Full+Stack+%7C+TypeScript+%7C+Next.js+%7C+Node.js)](https://evolttech.com.br)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericlescalvt)
-&nbsp;
-[![Evolt Tech](https://img.shields.io/badge/Evolt_Tech-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://evolttech.com.br)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@evolttech.com.br)
+<p>
+  <a href="https://evolttech.com.br"><img src="https://img.shields.io/badge/Evolt_Tech-5865F2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ericlescalvt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contato@evolttech.com.br"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=EriclesCalvt&style=for-the-badge&color=5865F2&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-## &nbsp;✦&nbsp; About
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-I'm a Full Stack Developer and the founder of **[Evolt Tech](https://evolttech.com.br)** — a software development company in Fortaleza, CE, building custom digital solutions for businesses.
+### 👨‍💻 &nbsp;About Me
 
-I don't just write code. I build systems that solve real operational problems: ERPs, SaaS platforms, dashboards, APIs and web applications designed to last and scale.
+I'm a Full Stack Developer and the founder of **[Evolt Tech](https://evolttech.com.br)** — a software development company in Fortaleza, Brazil.
 
-Currently shipping **[Muvi Social Suite](https://app.muvisocial.com)** — a unified platform for social media management and analytics.
+I build systems that solve real operational problems: **SaaS platforms, ERPs, dashboards, APIs** and web applications designed to last and scale.
+
+- 🔭 &nbsp;Currently shipping **Muvi Social Suite**
+- 🌱 &nbsp;Deep into **system architecture & SaaS**
+- 💬 &nbsp;Ask me about **TypeScript, Next.js & Node**
+- ⚡ &nbsp;Philosophy: *technology is the means, results are the goal*
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
+
+### 🧩 &nbsp;Profile
 
 ```ts
 const ericles = {
   role: "Founder & Engineer",
   company: "Evolt Tech",
-  location: "Fortaleza, BR",
+  location: "Fortaleza, BR 🇧🇷",
   focus: ["SaaS", "Web Apps", "APIs"],
-  stack: ["TypeScript", "Next.js", "Node"],
+  stack: ["TypeScript", "Next", "Node"],
   available: true,
 };
 ```
@@ -50,47 +56,60 @@ const ericles = {
 
 <img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-## &nbsp;✦&nbsp; Currently Building
+### 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,postgres,prisma,redis,docker,aws,vercel,git&perline=7&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### 🚀 &nbsp;Currently Building
 
 <div align="center">
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🔵 &nbsp;**Muvi Social Suite** | Unified dashboard for social media management & analytics | `Next.js` `Node.js` `PostgreSQL` |
+| 🔵 &nbsp;**Muvi Social Suite** | Social media management & analytics platform | `Next.js` `Node.js` `PostgreSQL` |
 | ⚡ &nbsp;**Evolt Suite** | Internal tooling for Evolt Tech operations | `TypeScript` `React` |
-| 📝 &nbsp;**Auto Legenda** | CEP plugin for Adobe Premiere — auto captions via SRT/.mogrt | `JavaScript` `ExtendScript` |
+| 📝 &nbsp;**Auto Legenda** | Adobe Premiere caption automation plugin | `JavaScript` `ExtendScript` |
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-## &nbsp;✦&nbsp; Tech Stack
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-![Node.js](https://img.shields.io/badge/Node.js-393?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2" />
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EriclesCalvt&theme=react&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=5865F2&langs_count=8" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-## &nbsp;✦&nbsp; Evolt Tech
+### 💼 &nbsp;Evolt Tech
 
 <div align="center">
 
-> *"Não vendemos código — vendemos solução.*
-> *A tecnologia é o meio; o resultado no seu negócio é o que importa."*
+> ### *"Não vendemos código — vendemos solução."*
+> A tecnologia é o meio; o resultado no seu negócio é o que importa.
 
 </div>
 
@@ -98,6 +117,10 @@ const ericles = {
 
 <div align="center">
 
-📍 &nbsp;Fortaleza, CE &nbsp;·&nbsp; 🟢 &nbsp;Available for new projects
+📍 &nbsp;Fortaleza, CE &nbsp;·&nbsp; 🟢 &nbsp;**Available for new projects**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0d1117&height=120&section=footer" />
 
 </div>
