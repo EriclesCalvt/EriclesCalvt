@@ -66,44 +66,6 @@ const ericles = {
 
 <img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### 🚀 &nbsp;Currently Building
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🔵 &nbsp;**Muvi Social Suite** | Social media management & analytics platform | `Next.js` `Node.js` `PostgreSQL` |
-| ⚡ &nbsp;**Evolt Suite** | Internal tooling for Evolt Tech operations | `TypeScript` `React` |
-| 📝 &nbsp;**Auto Legenda** | Adobe Premiere caption automation plugin | `JavaScript` `ExtendScript` |
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=EriclesCalvt&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=5865F2&icon_color=5865F2" />
-</td>
-<td align="center" width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EriclesCalvt&theme=react&hide_border=true&background=0d1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesCalvt&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=5865F2&langs_count=8" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 ### 💼 &nbsp;Evolt Tech
 
 <div align="center">
